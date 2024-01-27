@@ -19,8 +19,10 @@ author: Jaime Martí, Alfonso Martinez-Larraz
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  Download whitepaper:
+    - English: "assets/doc/Whitepaper MAIA eng.pdf"
+    - Spanish: "assets/doc/Whitepaper MAIA.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
