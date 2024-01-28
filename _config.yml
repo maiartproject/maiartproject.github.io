@@ -19,10 +19,10 @@ author: Rtprojectmaia@gmail.com
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Whitepaper download:
-    - English: "assets/doc/Whitepaper MAIA eng.pdf"
-    - Spanish: "assets/doc/Whitepaper MAIA.pdf"
+#navbar-links:
+#  Whitepaper download:
+#    - English: "assets/doc/Whitepaper MAIA eng.pdf"
+#    - Spanish: "assets/doc/Whitepaper MAIA.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
